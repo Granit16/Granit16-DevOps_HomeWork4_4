@@ -41,3 +41,29 @@ https://hub.docker.com/repository/docker/granit16/custom-nginx/general
 # Задача 4
 
 ![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%204.png?raw=true)
+
+
+# Задача 5
+
+## п. 1
+![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.1.png?raw=true)
+
+В соответствии с документацией, docker compose преимущественно выбирает файл с именем "compose.yaml" (или .yml), поддержка файлов с именем "docker-compose.yaml" (или .yml) осталась для поддержания обратной совместимости
+
+
+## п. 2
+![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.2.png?raw=true)
+
+## п. 3
+![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.3.png?raw=true)
+
+## п.п. 4-6
+![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.4-6.png?raw=true)
+
+## п. 7
+![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.7.png?raw=true)
+
+Docker compose выдал предупреждение о наличии контейнера без описания инфраструктуры и предложил удалить его
+
+## Скриншот portainer c задеплоенным компоузом
+![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.%2B.png?raw=true)
