@@ -26,6 +26,8 @@ https://hub.docker.com/repository/docker/granit16/custom-nginx/general
 
 ## п.п. 9-10
 ![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203.9-10.png?raw=true)
+При запуске контейнера мы указали проброс 80 порта, а теперь сервер слушает порт 81 
+
 
 ## п. 11
 ![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203.11.png?raw=true)
