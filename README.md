@@ -36,3 +36,8 @@ https://hub.docker.com/repository/docker/granit16/custom-nginx/general
 
 ## п. 12
 ![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203.12.png?raw=true)
+
+
+# Задача 4
+
+
