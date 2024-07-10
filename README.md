@@ -48,7 +48,7 @@ https://hub.docker.com/repository/docker/granit16/custom-nginx/general
 ## п. 1
 ![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.1.png?raw=true)
 
-В соответствии с документацией, docker compose преимущественно выбирает файл с именем "compose.yaml" (или .yml), поддержка файлов с именем "docker-compose.yaml" (или .yml) осталась для поддержания обратной совместимости
+В соответствии с документацией, docker compose преимущественно выбирает файл с именем "compose.yaml" (или .yml), поддержка файлов с именем "docker-compose.yaml" (или .yml) осталась для обратной совместимости
 
 
 ## п. 2
@@ -67,3 +67,8 @@ Docker compose выдал предупреждение о наличии кон�
 
 ## Скриншот portainer c задеплоенным компоузом
 ![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/%D0%94%D0%974%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%205.%2B.png?raw=true)
+
+## Содержимое compose.yaml
+![alt text](https://github.com/Granit16/Granit16-DevOps_HomeWork4_4/blob/main/compose.yaml?raw=true)
+
+
